@@ -190,7 +190,7 @@ Organized by SDLC phase. Expand a phase to browse; click a skill to read its `SK
 <details>
 <summary><b>SHIP</b></summary>
 
-| Skill | What it does |
+| Skill | What it does | 
 |-------|--------------|
 | [`ship`](skills/ship/SKILL.md) | Pre-launch gate + atomic commits + push (`--fast` to skip gate) |
 | [`commit`](skills/commit/SKILL.md) | Single commit following repository style |

@@ -42,8 +42,8 @@ OpenCode uses a **skill-driven execution model** — the agent reads this file p
 
 | User intent                             | Skill to invoke                                |
 | --------------------------------------- | ---------------------------------------------- |
-| New feature with unclear requirements   | `prd` → `plan` → `build`                       |
-| Implement next phase of a plan          | `build`                                        |
+| New feature with unclear requirements   | `prd` → `plan` → `build-cli-first`                       |
+| Implement next phase of a plan          | `build-cli-first`                                        |
 | Check plan progress                     | `check`, `brief`                               |
 | Test-first development                  | `tdd`                                          |
 | Implement using official docs           | `source-driven`                                |
