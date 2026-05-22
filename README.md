@@ -1,5 +1,5 @@
 # helderberto/agent-skills
-##
+
 [![Test Plugin Installation](https://github.com/helderberto/agent-skills/actions/workflows/test-plugin-install.yml/badge.svg)](https://github.com/helderberto/agent-skills/actions/workflows/test-plugin-install.yml)
 
 **Personal SDLC toolbelt for AI coding agents — from PRD to ship.**
